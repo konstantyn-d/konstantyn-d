@@ -1,18 +1,9 @@
 # Hi, I’m Konstantyn 👋
 
-**Data Engineer** building **scalable data systems in AWS** — from ingestion and transformation to storage, data quality, and monitoring.
+I build scalable data systems in AWS: ingestion, transformation, storage, and data quality.
 
-### What I do
-- Design and build **data pipelines** (batch → orchestration-ready)
-- Work with **data lakes / warehouses** and **data modeling**
-- Add **data quality checks** and **observability** (metrics, run logs, reliability)
+I like clean architectures, reliable pipelines, and metrics that actually drive decisions.
 
-### Current focus
-- **AWS** (S3, Athena, Lambda/EC2 fundamentals)
-- **Python + SQL** for production-grade data workflows
-- Portfolio projects that mirror real-world engineering patterns
+My main stack is Python, SQL, and AWS (S3/Athena). I also work with data modeling and ETL/ELT patterns.
 
-### Tech
-**Python • SQL • AWS • Data Modeling • ETL/ELT • Pandas • Airflow • Git/GitHub**
-
-📌 Portfolio projects and architecture notes are pinned below.
+Pinned below: end-to-end pipeline projects with diagrams, tests, and production-style docs.
