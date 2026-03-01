@@ -15,8 +15,7 @@
 <h3 align="left">Tech stack</h3>
 
 <p align="left">
-  <b>Python</b> • <b>SQL</b> • <b>AWS</b> • Data Modeling • ETL/ELT • Pandas • Git/GitHub<br/>
-  Learning: Airflow • Spark (basics)
+  <b>Python</b> • <b>SQL</b> • <b>AWS</b> • <b>AirFlow</b> • <b>Spark</b> -- Data Modeling • ETL/ELT • Pandas • Git/GitHub<br/>
 </p>
 
 <h3 align="left">Featured</h3>
