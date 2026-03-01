@@ -1,38 +1,18 @@
-<h1 align="center">Hi 👋, I'm Konstantyn</h1>
-<h3 align="center">Data Engineer building scalable data systems in AWS</h3>
+# 💫 About Me:
+Hey — I’m Anatolii.<br><br>I build scalable data systems in AWS: ingestion, transformation, storage, and data quality.<br><br>I like clean architectures, reliable pipelines, and metrics that actually drive decisions.<br><br>My main stack is Python, SQL, and AWS (S3/Athena). I also work with data modeling and ETL/ELT patterns.<br><br>Pinned below: end-to-end pipeline projects with diagrams, tests, and production-style docs.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=konstantyn-d&label=Profile%20views&color=0e75b6&style=flat" alt="konstantyn-d" />
-</p>
 
-<p align="center">
-  I build end-to-end data workflows — from ingestion and transformation to storage, data quality, and monitoring.<br/>
-  Focused on production-style engineering: clean architecture, reliability, and measurable outcomes.
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/konstantyn-dolyna-50b225342/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:konstantyndolyna@gmail.com) 
 
-<hr/>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=konstantyn-d&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=konstantyn-d&theme=shadow_red&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantyn-d&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Tech stack</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=konstantyn-d&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <b>Python</b> • <b>SQL</b> • <b>AWS</b> • <b>AirFlow</b> • <b>Spark</b> •
-  <b>Data Modeling • ETL/ELT • Pandas • Git/GitHub<br/></b>
-</p>
-
-<h3 align="left">Featured</h3>
-
-<p align="left">
-  📌 Check my pinned repositories below — end-to-end pipeline projects with architecture diagrams and clear documentation.
-</p>
-
-<hr/>
-
-- 📫 How to reach me <b>konstantyndolyna@gmail.com</b>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
-  <!-- Replace with your real LinkedIn URL -->
-  &nbsp;•&nbsp;
-  <a href="https://github.com/konstantyn-d" target="_blank" rel="noreferrer">GitHub</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
