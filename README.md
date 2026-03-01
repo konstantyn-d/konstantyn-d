@@ -12,22 +12,6 @@
 
 <hr/>
 
-<h3 align="left">What I do</h3>
-
-<ul>
-  <li>Design and build <b>data pipelines</b> (batch → orchestration-ready)</li>
-  <li>Work with <b>data lakes / warehouses</b> and <b>data modeling</b> (fact/dim, analytics-ready tables)</li>
-  <li>Add <b>data quality checks</b> (dedup, null/freshness rules) and <b>observability</b> (run logs, metrics)</li>
-</ul>
-
-<h3 align="left">Current focus</h3>
-
-<ul>
-  <li><b>AWS</b>: S3, Athena, IAM basics, Lambda/EC2 fundamentals</li>
-  <li><b>Python + SQL</b> for scalable ETL/ELT and analytics workflows</li>
-  <li>Portfolio projects that mirror real-world patterns (docs, tests, postmortems)</li>
-</ul>
-
 <h3 align="left">Tech stack</h3>
 
 <p align="left">
