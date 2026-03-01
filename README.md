@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey — I’m Anatolii.<br><br>I build scalable data systems in AWS: ingestion, transformation, storage, and data quality.<br><br>I like clean architectures, reliable pipelines, and metrics that actually drive decisions.<br><br>My main stack is Python, SQL, and AWS (S3/Athena). I also work with data modeling and ETL/ELT patterns.<br><br>Pinned below: end-to-end pipeline projects with diagrams, tests, and production-style docs.
+Hey — I’m Konstantyn.<br><br>I build scalable data systems in AWS: ingestion, transformation, storage, and data quality.<br><br>I like clean architectures, reliable pipelines, and metrics that actually drive decisions.<br><br>My main stack is Python, SQL, and AWS (S3/Athena). I also work with data modeling and ETL/ELT patterns.<br><br>Pinned below: end-to-end pipeline projects with diagrams, tests, and production-style docs.
 
 
 ## 🌐 Socials:
@@ -7,12 +7,3 @@ Hey — I’m Anatolii.<br><br>I build scalable data systems in AWS: ingestion, 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=konstantyn-d&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=konstantyn-d&theme=shadow_red&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantyn-d&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=konstantyn-d&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
